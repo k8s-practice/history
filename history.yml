@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: history
-        image: pjbear/history
+        image: g20190978/history
         ports:
         - containerPort: 80
         envFrom:
